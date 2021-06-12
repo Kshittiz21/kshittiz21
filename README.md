@@ -3,7 +3,7 @@
 - 🎓 I'm Kshittiz Bhardwaj, a 2nd year BTech CSE student at Indian Institute of Information Technology Vadodara
 - ⭐ I'm 3🌟(1759) at CodeChef and Pupil(1250) at Codeforces
 - 🌱 I’m currently deep diving in Competitive Programming and Flutter
-- 📫 How to reach me: Kshittizbhardwaj21@gamil.com
+- 📫 How to reach me: Kshittizbhardwaj21@gmail.com
 
 <!--
 **Kshittiz21/kshittiz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

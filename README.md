@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 I'm Kshittiz Bhardwaj, a 3rd year BTech CSE student at Indian Institute of Information Technology Vadodara
-- ⭐ I'm 3🌟(1759) at CodeChef and Pupil(1365) at Codeforces
+- ⭐ I'm Specialist(1455) at Codeforces and 3🌟(1759) at CodeChef 
 - 🌱 I’m currently deep diving in Competitive Programming and Flutter
 - ⚡ Fun fact: I love solving DSA problems and have solved 500+ problems across codeforces/codechef/LeetCode
 - 📫 How to reach me: Kshittizbhardwaj21@gmail.com
